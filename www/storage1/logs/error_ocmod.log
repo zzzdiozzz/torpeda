@@ -1,0 +1,280 @@
+2021-04-02 13:55:52 - 
+ERROR: CODE NOT FOUND!
+FILE: catalog/controller/checkout/checkout.php
+CODE: if (file_exists(DIR_TEMPLATE . $this->config->get('config_template') . '/template/checkout/checkout.tpl')) {
+MOD: Ajax Quick Checkout
+
+ERROR: FILE NOT FOUND!
+FILE: /home/htorpeda/torpedaclub.com.ua/www/www1/system/library/tax.php
+MOD: Ajax Quick Checkout
+
+ERROR: FILE NOT FOUND!
+FILE: /home/htorpeda/torpedaclub.com.ua/www/www1/catalog/model/extension/module/uni_new_data.php
+MOD: DEV-OPENCART.COM - Обновление цены при выборе опций
+
+ERROR: FILE NOT FOUND!
+FILE: /home/htorpeda/torpedaclub.com.ua/www/www1/catalog/view/theme/unishop2/template/{product/*,extension/module/*}.twig
+MOD: DEV-OPENCART.COM - Обновление цены при выборе опций
+
+ERROR: FILE NOT FOUND!
+FILE: /home/htorpeda/torpedaclub.com.ua/www/www1/catalog/view/theme/newstore/template/{product/*,extension/module/*}.twig
+MOD: DEV-OPENCART.COM - Обновление цены при выборе опций
+
+ERROR: FILE NOT FOUND!
+FILE: /home/htorpeda/torpedaclub.com.ua/www/www1/catalog/view/theme/{unishop2,newstore}/template/common/footer.twig
+MOD: DEV-OPENCART.COM - Обновление цены при выборе опций
+
+ERROR: FILE NOT FOUND!
+FILE: /home/htorpeda/torpedaclub.com.ua/www/www1/catalog/view/theme/unishop2/template/extension/module/uni_quick_order.twig
+MOD: DEV-OPENCART.COM - Обновление цены при выборе опций
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/language/en-gb/common/footer.php
+CODE: http://opencart.pro/
+MOD: DEV-OPENCART.COM - Обновление цены при выборе опций
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/language/ru-ru/common/footer.php
+CODE: http://opencart.pro/
+MOD: DEV-OPENCART.COM - Обновление цены при выборе опций
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/language/uk-ua/common/footer.php
+CODE: http://opencart.pro/
+MOD: DEV-OPENCART.COM - Обновление цены при выборе опций
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/language/en-gb/common/footer.php
+CODE: http://myopencart.com/
+MOD: DEV-OPENCART.COM - Обновление цены при выборе опций
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/language/ru-ru/common/footer.php
+CODE: http://myopencart.com/
+MOD: DEV-OPENCART.COM - Обновление цены при выборе опций
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/language/uk-ua/common/footer.php
+CODE: http://myopencart.com/
+MOD: DEV-OPENCART.COM - Обновление цены при выборе опций
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/language/ru-ru/common/footer.php
+CODE: http://www.opencart.com
+MOD: DEV-OPENCART.COM - Обновление цены при выборе опций
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/language/uk-ua/common/footer.php
+CODE: http://www.opencart.com
+MOD: DEV-OPENCART.COM - Обновление цены при выборе опций
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/language/en-gb/common/footer.php
+CODE: http://lowenet.biz/
+MOD: DEV-OPENCART.COM - Обновление цены при выборе опций
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/language/ru-ru/common/footer.php
+CODE: http://lowenet.biz/
+MOD: DEV-OPENCART.COM - Обновление цены при выборе опций
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/language/uk-ua/common/footer.php
+CODE: http://lowenet.biz/
+MOD: DEV-OPENCART.COM - Обновление цены при выборе опций
+
+ERROR: FILE NOT FOUND!
+FILE: /home/htorpeda/torpedaclub.com.ua/www/www1/catalog/controller/{common,startup}/seo_pro.php
+MOD: DEV-OPENCART.COM — OcFilter (v4.7.5)
+
+ERROR: FILE NOT FOUND!
+FILE: /home/htorpeda/torpedaclub.com.ua/www/www1/catalog/controller/{common,startup}/seo_pro.php
+MOD: DEV-OPENCART.COM — OcFilter (v4.7.5)
+
+ERROR: FILE NOT FOUND!
+FILE: /home/htorpeda/torpedaclub.com.ua/www/www1/system/library/seopro.php
+MOD: DEV-OPENCART.COM — OcFilter (v4.7.5)
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/language/en-gb/common/footer.php
+CODE: http://opencart.pro/
+MOD: DEV-OPENCART.COM — OcFilter (v4.7.5)
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/language/ru-ru/common/footer.php
+CODE: http://opencart.pro/
+MOD: DEV-OPENCART.COM — OcFilter (v4.7.5)
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/language/uk-ua/common/footer.php
+CODE: http://opencart.pro/
+MOD: DEV-OPENCART.COM — OcFilter (v4.7.5)
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/language/en-gb/common/footer.php
+CODE: http://myopencart.com/
+MOD: DEV-OPENCART.COM — OcFilter (v4.7.5)
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/language/ru-ru/common/footer.php
+CODE: http://myopencart.com/
+MOD: DEV-OPENCART.COM — OcFilter (v4.7.5)
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/language/uk-ua/common/footer.php
+CODE: http://myopencart.com/
+MOD: DEV-OPENCART.COM — OcFilter (v4.7.5)
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/language/en-gb/common/footer.php
+CODE: http://www.opencart.com
+MOD: DEV-OPENCART.COM — OcFilter (v4.7.5)
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/language/ru-ru/common/footer.php
+CODE: http://www.opencart.com
+MOD: DEV-OPENCART.COM — OcFilter (v4.7.5)
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/language/uk-ua/common/footer.php
+CODE: http://www.opencart.com
+MOD: DEV-OPENCART.COM — OcFilter (v4.7.5)
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/language/en-gb/common/footer.php
+CODE: http://lowenet.biz/
+MOD: DEV-OPENCART.COM — OcFilter (v4.7.5)
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/language/ru-ru/common/footer.php
+CODE: http://lowenet.biz/
+MOD: DEV-OPENCART.COM — OcFilter (v4.7.5)
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/language/uk-ua/common/footer.php
+CODE: http://lowenet.biz/
+MOD: DEV-OPENCART.COM — OcFilter (v4.7.5)
+
+ERROR: FILE NOT FOUND!
+FILE: /home/htorpeda/torpedaclub.com.ua/www/www1/system/library/journal3/cache.php
+MOD: DEV-OPENCART.COM — WebP Image
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/language/en-gb/common/footer.php
+CODE: http://opencart.pro/
+MOD: DEV-OPENCART.COM — WebP Image
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/language/ru-ru/common/footer.php
+CODE: http://opencart.pro/
+MOD: DEV-OPENCART.COM — WebP Image
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/language/uk-ua/common/footer.php
+CODE: http://opencart.pro/
+MOD: DEV-OPENCART.COM — WebP Image
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/language/en-gb/common/footer.php
+CODE: http://myopencart.com/
+MOD: DEV-OPENCART.COM — WebP Image
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/language/ru-ru/common/footer.php
+CODE: http://myopencart.com/
+MOD: DEV-OPENCART.COM — WebP Image
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/language/uk-ua/common/footer.php
+CODE: http://myopencart.com/
+MOD: DEV-OPENCART.COM — WebP Image
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/language/en-gb/common/footer.php
+CODE: http://www.opencart.com
+MOD: DEV-OPENCART.COM — WebP Image
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/language/ru-ru/common/footer.php
+CODE: http://www.opencart.com
+MOD: DEV-OPENCART.COM — WebP Image
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/language/uk-ua/common/footer.php
+CODE: http://www.opencart.com
+MOD: DEV-OPENCART.COM — WebP Image
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/language/en-gb/common/footer.php
+CODE: http://lowenet.biz/
+MOD: DEV-OPENCART.COM — WebP Image
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/language/ru-ru/common/footer.php
+CODE: http://lowenet.biz/
+MOD: DEV-OPENCART.COM — WebP Image
+
+ERROR: CODE NOT FOUND!
+FILE: catalog/language/uk-ua/common/footer.php
+CODE: http://lowenet.biz/
+MOD: DEV-OPENCART.COM — WebP Image
+
+ERROR: FILE NOT FOUND!
+FILE: /home/htorpeda/torpedaclub.com.ua/www/www1/admin/controller/extension/installer.php
+MOD: d_opencart_patch
+
+ERROR: FILE NOT FOUND!
+FILE: /home/htorpeda/torpedaclub.com.ua/www/www1/catalog/controller/common/seo_url.php
+MOD: d_seo_module
+
+ERROR: FILE NOT FOUND!
+FILE: /home/htorpeda/torpedaclub.com.ua/www/www1/catalog/controller/journal2/checkout.php
+MOD: Shipping Data for Journal Quick Checkout
+
+ERROR: FILE NOT FOUND!
+FILE: /home/htorpeda/torpedaclub.com.ua/www/www1/catalog/controller/journal2/checkout.php
+MOD: Shipping Data for Journal Quick Checkout
+
+ERROR: FILE NOT FOUND!
+FILE: /home/htorpeda/torpedaclub.com.ua/www/www1/catalog/view/theme/journal2/template/journal2/checkout/checkout.twig
+MOD: Shipping Data for Journal Quick Checkout
+
+ERROR: FILE NOT FOUND!
+FILE: /home/htorpeda/torpedaclub.com.ua/www/www1/catalog/view/theme/journal2/template/journal2/checkout/shipping_methods.twig
+MOD: Shipping Data for Journal Quick Checkout
+
+ERROR: FILE NOT FOUND!
+FILE: /home/htorpeda/torpedaclub.com.ua/www/www1/catalog/controller/checkout/oct_fastorder.php
+MOD: Shipping Data for Octemplates Fast Order
+
+ERROR: FILE NOT FOUND!
+FILE: /home/htorpeda/torpedaclub.com.ua/www/www1/catalog/view/theme/*/template/checkout/oct_fastorder/fastorder.tpl
+MOD: Shipping Data for Octemplates Fast Order
+
+ERROR: FILE NOT FOUND!
+FILE: /home/htorpeda/torpedaclub.com.ua/www/www1/admin/controller/sale/orderpro.php
+MOD: Shipping Data for OrderPro
+
+ERROR: FILE NOT FOUND!
+FILE: /home/htorpeda/torpedaclub.com.ua/www/www1/admin/view/template/sale/orderpro/order_form.twig
+MOD: Shipping Data for OrderPro
+
+ERROR: FILE NOT FOUND!
+FILE: /home/htorpeda/torpedaclub.com.ua/www/www1/catalog/controller/checkout/simplecheckout.php
+MOD: Shipping Data for Simple checkout and registration
+
+ERROR: FILE NOT FOUND!
+FILE: /home/htorpeda/torpedaclub.com.ua/www/www1/catalog/view/theme/*/template/checkout/simplecheckout.twig
+MOD: Shipping Data for Simple checkout and registration
+
+ERROR: FILE NOT FOUND!
+FILE: /home/htorpeda/torpedaclub.com.ua/www/www1/catalog/view/theme/*/template/checkout/simplecheckout_shipping.twig
+MOD: Shipping Data for Simple checkout and registration
+
+ERROR: FILE NOT FOUND!
+FILE: /home/htorpeda/torpedaclub.com.ua/www/www1/catalog/model/tool/simpleapimain.php
+MOD: Shipping Data for Simple checkout apimain
+
+ERROR: FILE NOT FOUND!
+FILE: /home/htorpeda/torpedaclub.com.ua/www/www1/catalog/view/theme/*/template/checkout/simplecheckout_shipping.twig
+MOD: Shipping Data for Simple checkout apimain

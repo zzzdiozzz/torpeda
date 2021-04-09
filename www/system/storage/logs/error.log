@@ -1,0 +1,10 @@
+2021-01-20 23:18:25 - PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/htorpeda/torpedaclub.com.ua/www/system/library/db/mysqli.php on line 7
+2021-01-20 23:18:25 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /home/htorpeda/torpedaclub.com.ua/www/system/library/db/mysqli.php on line 10
+2021-01-20 23:18:25 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /home/htorpeda/torpedaclub.com.ua/www/system/library/db/mysqli.php on line 10
+2021-01-20 23:18:25 - PHP Notice:  Undefined variable: mysql in /home/htorpeda/torpedaclub.com.ua/www/install/controller/install/step_3.php on line 281
+2021-01-20 23:18:25 - PHP Notice:  Trying to get property 'connect_error' of non-object in /home/htorpeda/torpedaclub.com.ua/www/install/controller/install/step_3.php on line 281
+2021-01-20 23:20:59 - PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/htorpeda/torpedaclub.com.ua/www/system/library/db/mysqli.php on line 7
+2021-01-20 23:20:59 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /home/htorpeda/torpedaclub.com.ua/www/system/library/db/mysqli.php on line 10
+2021-01-20 23:20:59 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /home/htorpeda/torpedaclub.com.ua/www/system/library/db/mysqli.php on line 10
+2021-01-20 23:20:59 - PHP Notice:  Undefined variable: mysql in /home/htorpeda/torpedaclub.com.ua/www/install/controller/install/step_3.php on line 281
+2021-01-20 23:20:59 - PHP Notice:  Trying to get property 'connect_error' of non-object in /home/htorpeda/torpedaclub.com.ua/www/install/controller/install/step_3.php on line 281
